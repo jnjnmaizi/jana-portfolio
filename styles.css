@@ -28,3 +28,5 @@
 @media(max-width:760px){.hero h1{font-size:66px}.rtl .hero h1{font-size:70px}.credentials{padding:70px 0}.credential-grid{grid-template-columns:1fr}.credential-card.image-card{min-height:360px}.contact-details{align-items:flex-start}.contact-link{margin-top:26px}}
 .uni-logo-image{width:72px;height:58px;object-fit:cover;object-position:88% 7%;border:1px solid var(--line);border-radius:12px;background:#fff}
 @media(max-width:760px){.uni-logo-image{width:64px;height:52px}}
+.about h2 em{font-family:var(--serif);font-weight:400;color:var(--purple)}
+.about strong{color:var(--fg);font-weight:500}
